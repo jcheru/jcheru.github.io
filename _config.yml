@@ -18,11 +18,12 @@ plainwhite:
   # generate social links in footer
   social_links:
     github:  jcheru
+    linkedIn: in/jonathan-cheruvelil
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: in/jcheruvelil
+    # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
