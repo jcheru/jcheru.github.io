@@ -26,7 +26,7 @@ There's a couple of Bucks in the area here, but they're sealed off and Westbrook
 <video controls><source src="https://i.imgur.com/Xefug1Y.mp4" type="video/mp4"></video>
 
 Another easy one:
-<video controls><source src="https://i.imgur.com/mMJvy0N.mp4" type="video/mp4"></video>
+<body><video controls><source src="https://i.imgur.com/mMJvy0N.mp4" type="video/mp4"></video></bo
 
 Great job out-jumping Austin Rivers on this one:
 
@@ -66,5 +66,5 @@ Check out this play from the game. It looks like PJ Tucker corralls the rebound 
 
 Westbrook got the credit for a rebound on this play, while Tucker credit for a turnover. I don't really get it. But I guess these things are bound to happen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1NzUyMzMyXX0=
+eyJoaXN0b3J5IjpbNzAxNDcwMCw0NzU3NTIzMzJdfQ==
 -->
