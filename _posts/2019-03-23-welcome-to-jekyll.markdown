@@ -17,17 +17,13 @@ Rebounds where no opposing player is attempting to collect the ball. These are e
 
 No Buck is even in the key on his first three boards:
 
-<video controls autoplay loop>
-  <source src="https://i.imgur.com/rGHLVxR.mp4" type="video/mp4">
-</video>
-
-![](https://im6.ezgif.com/tmp/ezgif-6-6ba2a7085feb.gif)
-
-![](https://im6.ezgif.com/tmp/ezgif-6-b171a2cce661.gif)
+<video controls autoplay loop><source src="https://i.imgur.com/bhdGwVx.mp4" type="video/mp4"></video>
+<video controls autoplay loop><source src="https://i.imgur.com/rGHLVxR.mp4" type="video/mp4"></video>
+<video controls autoplay loop><source src="https://i.imgur.com/JXsGtHE.mp4" type="video/mp4"></video>
 
 There's a couple of Bucks in the area here, but they're sealed off and Westbrook collects easily:
 
-![](https://im6.ezgif.com/tmp/ezgif-6-73f7f4b619c8.gif)
+<video controls autoplay loop><source src="https://i.imgur.com/Xefug1Y.mp4" type="video/mp4"></video>
 
 Great job out-jumping Austin Rivers on this one:
 
@@ -63,6 +59,6 @@ There are a lot of chaotic plays in basketball. These plays never follow any kin
 
 Check out this play from the game. It looks like PJ Tucker corralls the rebound and slings it to an unaware Westbrook. Once he realizes what happens, Westbrook runs after the ball and tries to save it by tossing it back to Tucker. However, Giannis is there to intercept it and he goes to score.
 
-![](https://im6.ezgif.com/tmp/ezgif-6-8acbe7196e85.gif)
+<video controls autoplay loop><source src="https://i.imgur.com/1bBgFyK.mp4" type="video/mp4"></video>
 
 Westbrook got the credit for a rebound on this play, while Tucker credit for a turnover. I don't really get it. But I guess these things are bound to happen.
