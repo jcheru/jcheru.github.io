@@ -17,7 +17,9 @@ Rebounds where no opposing player is attempting to collect the ball. These are e
 
 No Buck is even in the key on his first three boards:
 
-<html><iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe></html>
+<video width="480" height="320" controls="controls">
+  <source src="https://i.imgur.com/rGHLVxR.mp4" type="video/mp4">
+</video>
 
 ![](https://im6.ezgif.com/tmp/ezgif-6-6ba2a7085feb.gif)
 
