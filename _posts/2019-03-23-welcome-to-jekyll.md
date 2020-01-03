@@ -65,7 +65,13 @@ Check out this play from the game. It looks like PJ Tucker corrals the rebound a
 <video controls><source src="https://i.imgur.com/1bBgFyK.mp4" type="video/mp4"></video>
 
 Westbrook got the credit for a rebound on this play, while Tucker credit for a turnover. I don't really get it. But I guess these things are bound to happen.
+
+## So what?
+
+For the night, that's 11/16 rebounds that thoroughly underwhelmed me. I'm sure that if I were to take a look at other games where players racked up 25+ rebounds, I would have similar feelings. I mean, there's a reason why we would much rather watch highlights of Steph Curry dropping 50 rather than Karl-Anthony Towns pulling down 27 boards: most rebounds just aren't impressive.
+
+We could leave the conversation there, but I think the most annoying part of this that we often look at these rebounding totals to help us decide whether player X is better than player Y. It's one of the three numbers that always gets reported when looking at a game summary, so we think it ties directly into how well a player performed that night. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMDk2NzAwLDgxNTMwOTkyNSw4MzEwOT
-Y3MDAsNDc1NzUyMzMyLDQ3NTc1MjMzMl19
+eyJoaXN0b3J5IjpbLTg3MjA2NzE5Miw4MzEwOTY3MDAsODE1Mz
+A5OTI1LDQ3NTc1MjMzMiw0NzU3NTIzMzJdfQ==
 -->
