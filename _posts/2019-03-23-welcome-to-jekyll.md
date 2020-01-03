@@ -60,11 +60,12 @@ The statkeeping for these is a bit arbitrary. Tyson Chandler is a master of thes
 
 There are a lot of chaotic plays in basketball. These plays never follow any kind of routine, but they do eventually end. And once it's over, the scorers have to turn that chaos into something discrete on the box score. It isn't always easy.
 
-Check out this play from the game. It looks like PJ Tucker corralls the rebound and slings it to an unaware Westbrook. Once he realizes what happens, Westbrook runs after the ball and tries to save it by tossing it back to Tucker. However, Giannis is there to intercept it and he goes to score.
+Check out this play from the game. It looks like PJ Tucker corrals the rebound and slings it to an unaware Westbrook. Once he realizes what happens, Westbrook runs after the ball and tries to save it by tossing it back to Tucker. However, Giannis is there to intercept it and he goes to score.
 
 <video controls><source src="https://i.imgur.com/1bBgFyK.mp4" type="video/mp4"></video>
 
 Westbrook got the credit for a rebound on this play, while Tucker credit for a turnover. I don't really get it. But I guess these things are bound to happen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1NzUyMzMyLDQ3NTc1MjMzMl19
+eyJoaXN0b3J5IjpbODMxMDk2NzAwLDQ3NTc1MjMzMiw0NzU3NT
+IzMzJdfQ==
 -->
