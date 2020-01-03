@@ -9,6 +9,8 @@ _Disclaimer: While there is research done on this post, I'm still very uninforme
 
 If you're trying to win an NBA game, rebounding is important. I don't think anybody would argue that. But the way that we try to record rebounds in the box score has turned it into something that is imprecise, messy, and often overvalued. I would go so far as to say that the number that shows up next to a player's name in the box score means almost nothing to me.
 
+there shouldn't be any saving please
+
 I'm going to explain my gripes by looking at just one specific performance: [Russell Westbrook's 16 rebound game vs the Bucks on opening night.](https://www.espn.com/nba/game?gameId=401160657) This game has an example of everything that irks me about how we count rebounds. I have nothing against Westbrook specifically, as the things I'm outlining here are common amongst all players in the league.
 
 ## Uncontested rebounds 
@@ -66,6 +68,6 @@ Check out this play from the game. It looks like PJ Tucker corrals the rebound a
 
 Westbrook got the credit for a rebound on this play, while Tucker credit for a turnover. I don't really get it. But I guess these things are bound to happen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMDk2NzAwLDQ3NTc1MjMzMiw0NzU3NT
-IzMzJdfQ==
+eyJoaXN0b3J5IjpbODE1MzA5OTI1LDgzMTA5NjcwMCw0NzU3NT
+IzMzIsNDc1NzUyMzMyXX0=
 -->
