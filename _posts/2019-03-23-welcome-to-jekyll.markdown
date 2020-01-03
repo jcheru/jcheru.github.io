@@ -25,17 +25,20 @@ There's a couple of Bucks in the area here, but they're sealed off and Westbrook
 
 <video controls autoplay loop><source src="https://i.imgur.com/Xefug1Y.mp4" type="video/mp4"></video>
 
+Another easy one:
+<video controls autoplay loop><source src="https://i.imgur.com/mMJvy0N.mp4" type="video/mp4"></video>
+
 Great job out-jumping Austin Rivers on this one:
 
-![](https://im6.ezgif.com/tmp/ezgif-6-b264a6d6b618.gif)
+<video controls autoplay loop><source src="https://i.imgur.com/4oGAyNh.mp4" type="video/mp4"></video>
 
 Doesn't even have to jump here: 
 
-![](https://im6.ezgif.com/tmp/ezgif-6-d8b274270d10.gif)
+<video controls autoplay loop><source src="https://i.imgur.com/UZUi6Ua.mp4" type="video/mp4"></video>
 
 And the last one, his 16th of the night:
 
-![](https://im6.ezgif.com/tmp/ezgif-6-711a423a4661.gif)
+<video controls autoplay loop><source src="https://i.imgur.com/CBbQD72.mp4" type="video/mp4"></video>
 
 I see so many of these in every game I watch. I get that they are important - the defensive possession has to end, and somebody has to collect the ball. But my issues is that _anyone_ can collect the ball on these. There's nothing special about Westbrook's ability that makes him more able to collect these. Put any NBA player in these situations and they'll all be able to pull of these down without any issues.
 
@@ -45,11 +48,11 @@ These are rebounds where a player under the basket tips / swats the ball away fr
 
 Here's the one example from Westbrook's game. It isn't the best example of what I'm talking about, since the tip out wasn't as controlled as others. Still, Harden is the one battling with the defender for the ball, but Westbrook gets the stat mostly just by happening to be in the area:
 
-![](https://im6.ezgif.com/tmp/ezgif-6-c70146fd9e2f.gif)
+<video controls autoplay loop><source src="https://i.imgur.com/2bBd0Zh.mp4" type="video/mp4"></video>
 
 Similar thing happens here with Capela:
 
-![](https://im6.ezgif.com/tmp/ezgif-6-9b4c39920f82.gif)
+<video controls autoplay loop><source src="https://i.imgur.com/B50PX6w.mp4" type="video/mp4"></video>
 
 The statkeeping for these is a bit arbitrary. Tyson Chandler is a master of these [(check out this compilation by FiveThrityEight)](https://fivethirtyeight.com/wp-content/uploads/2018/11/TysonTapbacks.mp4?_=5), and he's confirmed that the person securing the board often gets credited on the stat sheet. I get the argument for giving it to the player securing the ball - they're the ones actually finishing the play. But it just seems like the player battling for the ball is the one doing the dirty work, while the "rebounder" gets the benefit for doing little more than being in the right place at the right time.
 
