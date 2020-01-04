@@ -70,8 +70,9 @@ Westbrook got the credit for a rebound on this play, while Tucker credit for a t
 
 For the night, that's 11/16 rebounds that thoroughly underwhelmed me. I'm sure that if I were to take a look at other games where players racked up 25+ rebounds, I would have similar feelings. I mean, there's a reason why we would much rather watch highlights of Steph Curry dropping 50 rather than Karl-Anthony Towns pulling down 27 boards: most rebounds just aren't impressive.
 
-We could leave the conversation there, but I think the most annoying part of this that we often look at these rebounding totals to help us decide whether player X is better than player Y. It's one of the three numbers that always gets reported when looking at a game summary, so we think it ties directly into how well a player performed that night. 
+We could leave the conversation there, but I think the most annoying part of this that we often look at these rebounding totals to help us decide whether player X is better than player Y. It's one of the three numbers that always gets reported when looking at a game summary, so we think it ties directly into how well a player performed that night. We think that a player's ability to collect these loose balls holds a level of importance similar to their ability to score points, create opportunities for teammates, or play defense. We refer to these numbers when considering players for MVP. The reality is that a player's rebounding total is extremely overvalued and that it has little to do with their actual basketball ability.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjA2NzE5Miw4MzEwOTY3MDAsODE1Mz
-A5OTI1LDQ3NTc1MjMzMiw0NzU3NTIzMzJdfQ==
+eyJoaXN0b3J5IjpbLTE4NTQ5NzE5NzcsLTg3MjA2NzE5Miw4Mz
+EwOTY3MDAsODE1MzA5OTI1LDQ3NTc1MjMzMiw0NzU3NTIzMzJd
+fQ==
 -->
