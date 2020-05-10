@@ -23,9 +23,9 @@ Here are a few more examples of what I'm talking about:
 ![](https://i.imgur.com/85F0Smy.png)
 The criteria is so selective, so arbitrary, so unnatural, that you just can't help but laugh. If the question is "what is the point?", then the answer is "there is no point." I've spent most of my life with the understanding that the objectiveness of numbers help us understanding something abstract, like basketball. But that isn't always the case. Sometimes, numbers just exist without a purpose. Sometimes an ESPN employee just has some down time, a database full of numbers, and a newfound interest in SQL joins. These numbers don't have any hidden agenda or greater takeaway. They aren't here to teach you anything. They are just here to exist, the same way you are here on this Earth to exist.
 
-I think the stats guy at Fox Sports Indiana really understands this concept. Somehow, he came up with this gem of statistic, got the graphics guys to buy in, and convinced his manager to show it to the world. He realized th
+I think the stats guy at Fox Sports Indiana really understands this concept. Somehow, he came up with this gem of statistic, got the graphics guys to buy in, and convinced his manager to show it to the world. He realized that behind the beauty of those decimal places and non-rounded numbers, there was in inherent beauty. Yeah, he might have caused a bit of a stir in the process and got more than a few articles written about him
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDcwMDc0MSwtMTQwNTI4MDc4MiwtNT
+eyJoaXN0b3J5IjpbLTk4OTAyMTEwNSwtMTQwNTI4MDc4MiwtNT
 k2OTU5OTQ2LC00MTExODIyNTIsNjg5MDk2NjI1LC0xMzExMDg1
 MTY1LC0xNzM5OTYxMTA0LC0xMjU3MDQyOCw5NTMzOTA4MzAsLT
 IxMjI2ODQzMDQsMTcwNzM3MTM1NiwxMzU4MjI0OTQ5LDExMTA4
