@@ -14,10 +14,10 @@ What I'm trying to say is this: Thaddeus Young isn't special. He's just a dude. 
 
 And the comparison is legally allowed to happen, all because of those numbers on top. You can get annoyed all you want, but you can't dispute the numbers. You can't argue with a calculator.
 
-But if you want to over-analyze this stuff and get philosophical about it, you could ask the following: what is the point of statistics if they are going to be 
+But if you want to over-analyze this stuff and get philosophical about it, you could ask the following: what is the point of statistics if they are going to be so blatantly ridiculous and borderline immoral? Aren't numbers supposed to help us understand a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjExMDcxMDAsLTEzMTEwODUxNjUsLT
-E3Mzk5NjExMDQsLTEyNTcwNDI4LDk1MzM5MDgzMCwtMjEyMjY4
-NDMwNCwxNzA3MzcxMzU2LDEzNTgyMjQ5NDksMTExMDgzMDQ5OV
-19
+eyJoaXN0b3J5IjpbMTUwNjQwNzM4NiwtMTMxMTA4NTE2NSwtMT
+czOTk2MTEwNCwtMTI1NzA0MjgsOTUzMzkwODMwLC0yMTIyNjg0
+MzA0LDE3MDczNzEzNTYsMTM1ODIyNDk0OSwxMTEwODMwNDk5XX
+0=
 -->
