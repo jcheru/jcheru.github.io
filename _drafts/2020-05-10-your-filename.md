@@ -23,13 +23,15 @@ Here are a few more examples of what I'm talking about:
 ![](https://i.imgur.com/85F0Smy.png)
 The criteria is so selective, so arbitrary, so unnatural, that you just can't help but laugh. If the question is "what is the point?", then the answer is "there is no point." I've spent most of my life with the understanding that the objectiveness of numbers help us understanding something abstract, like basketball. But that isn't always the case. Sometimes, numbers just exist without a purpose. Sometimes an ESPN employee just has some down time, a database full of numbers, and a newfound interest in SQL joins. These numbers don't have any hidden agenda or greater takeaway. They aren't here to teach you anything. They are just here to exist, the same way you are here on this Earth to exist.
 
-I think the stats guy at Fox Sports Indiana really understands this concept. Somehow, he came up with this gem of statistic, got the graphics guys to buy in, and convinced his manager to broadcast it. He realized that behind the ugliness of those decimal places and non-rounded numbers, there was inherent beauty. And on that fateful night in late February, the stats guy got to show his masterpiece to the world. He caused a little bit of a [stir on twitter that night](https://twitter.com/FSIndiana/status/969012390158262272), got [a few articles written about him](https://bleacherreport.com/articles/2762113-tv-graphic-places-thaddeus-young-alongside-all-time-nba-legends), but that was pretty much it. The Pacers lost that game to the 19-43 Hawks. Nobody remembers a single thing about that game. But that day will go down in history as the only time that anybody was able to compare Thaddeus Young to Magic Johnson, Larry Bird, Michael Jordan, and Lebron James, and actually get away with it.
+I think the stats guy at Fox Sports Indiana really understands this concept. Somehow, he came up with this gem of statistic, got the graphics guys to buy in, and convinced his manager to broadcast it. He realized that behind the ugliness of those decimal places and non-rounded numbers, there was inherent beauty. And on that fateful night in late February, the stats guy got to show his masterpiece to the world. He caused a little bit of a [stir on twitter that night](https://twitter.com/FSIndiana/status/969012390158262272), got [a few articles written about him](https://bleacherreport.com/articles/2762113-tv-graphic-places-thaddeus-young-alongside-all-time-nba-legends), but that was pretty much it. The Pacers lost that game to the 19-43 Hawks. Nobody remembers a single thing about that game. But that day will go down in history as the only time that anybody was able to compare Thaddeus Young to Magic Johnson, Larry Bird, Michael Jordan, and Lebron James, and actually get away with it. An incredible accomplishment. 
 
-What is the lesson here? 
+Is there a lesson here? Probably not. But let's make one up.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzAzNjQyMzEsMTg3NzcxNTMzMCwxMD
-g4NjE3OTY3LC0xNDA1MjgwNzgyLC01OTY5NTk5NDYsLTQxMTE4
-MjI1Miw2ODkwOTY2MjUsLTEzMTEwODUxNjUsLTE3Mzk5NjExMD
-QsLTEyNTcwNDI4LDk1MzM5MDgzMCwtMjEyMjY4NDMwNCwxNzA3
-MzcxMzU2LDEzNTgyMjQ5NDksMTExMDgzMDQ5OV19
+eyJoaXN0b3J5IjpbODQ4OTY4OTQ3LDE4Nzc3MTUzMzAsMTA4OD
+YxNzk2NywtMTQwNTI4MDc4MiwtNTk2OTU5OTQ2LC00MTExODIy
+NTIsNjg5MDk2NjI1LC0xMzExMDg1MTY1LC0xNzM5OTYxMTA0LC
+0xMjU3MDQyOCw5NTMzOTA4MzAsLTIxMjI2ODQzMDQsMTcwNzM3
+MTM1NiwxMzU4MjI0OTQ5LDExMTA4MzA0OTldfQ==
 -->
