@@ -23,11 +23,11 @@ Here are a few more examples of what I'm talking about:
 ![](https://i.imgur.com/85F0Smy.png)
 The criteria is so selective, so arbitrary, so unnatural, that you just can't help but laugh. If the question is "what is the point?", then the answer is "there is no point." I've spent most of my life with the understanding that the objectiveness of numbers help us understanding something abstract, like basketball. But that isn't always the case. Sometimes, numbers just exist without a purpose. Sometimes an ESPN employee just has some down time, a database full of numbers, and a newfound interest in SQL joins. Sometimes we just need to say "neat!" and move on.
 
-I think the stats guy at Fox Sports Indiana really understands this concept. Somehow, he came up with this 
+I think the stats guy at Fox Sports Indiana really understands this concept. Somehow, he came up with this gem of statistic, got the graphics guys to buy in, and convinced his manager to show it to the world. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ0MDg1NjcsLTE0MDUyODA3ODIsLT
-U5Njk1OTk0NiwtNDExMTgyMjUyLDY4OTA5NjYyNSwtMTMxMTA4
-NTE2NSwtMTczOTk2MTEwNCwtMTI1NzA0MjgsOTUzMzkwODMwLC
-0yMTIyNjg0MzA0LDE3MDczNzEzNTYsMTM1ODIyNDk0OSwxMTEw
-ODMwNDk5XX0=
+eyJoaXN0b3J5IjpbLTUyMjkwMzI3LC0xNDA1MjgwNzgyLC01OT
+Y5NTk5NDYsLTQxMTE4MjI1Miw2ODkwOTY2MjUsLTEzMTEwODUx
+NjUsLTE3Mzk5NjExMDQsLTEyNTcwNDI4LDk1MzM5MDgzMCwtMj
+EyMjY4NDMwNCwxNzA3MzcxMzU2LDEzNTgyMjQ5NDksMTExMDgz
+MDQ5OV19
 -->
