@@ -21,10 +21,11 @@ Here are a few more examples of what I'm talking about:
 ![](https://i.imgur.com/YjBAJdQ.png)
 ![](https://external-preview.redd.it/2wg4QnJ5QIhO8z0selOMdwx_8fWcLA2sEcjozc5l1EA.png?width=960&crop=smart&auto=webp&s=362d7e75e99ee9d8b5256cad41add8555102bbc5)
 ![](https://i.imgur.com/85F0Smy.png)
-The criteria is so selective, so arbitrary, so unnatural, that you just can't help but laugh. In fact, I've come around to straight up being impressed. If the question is "what is the point?", then the answer is "there is no point." I've spent most of my life with the understanding that numbers and statistics make it easier to understand s
+The criteria is so selective, so arbitrary, so unnatural, that you just can't help but laugh. In fact, I've come around to straight up being impressed. If the question is "what is the point?", then the answer is "there is no point." I've spent most of my life with the understanding that the objectiveness of numbers help us understanding something abstract, like basketball. But that isn't always the case. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc4Njg4MjAsLTU5Njk1OTk0NiwtND
-ExMTgyMjUyLDY4OTA5NjYyNSwtMTMxMTA4NTE2NSwtMTczOTk2
-MTEwNCwtMTI1NzA0MjgsOTUzMzkwODMwLC0yMTIyNjg0MzA0LD
-E3MDczNzEzNTYsMTM1ODIyNDk0OSwxMTEwODMwNDk5XX0=
+eyJoaXN0b3J5IjpbLTg1MTQyMTU5OCwtNTk2OTU5OTQ2LC00MT
+ExODIyNTIsNjg5MDk2NjI1LC0xMzExMDg1MTY1LC0xNzM5OTYx
+MTA0LC0xMjU3MDQyOCw5NTMzOTA4MzAsLTIxMjI2ODQzMDQsMT
+cwNzM3MTM1NiwxMzU4MjI0OTQ5LDExMTA4MzA0OTldfQ==
 -->
