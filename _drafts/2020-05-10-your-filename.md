@@ -23,11 +23,11 @@ Here are a few more examples of what I'm talking about:
 ![](https://i.imgur.com/85F0Smy.png)
 The criteria is so selective, so arbitrary, so unnatural, that you just can't help but laugh. If the question is "what is the point?", then the answer is "there is no point." I've spent most of my life with the understanding that the objectiveness of numbers help us understanding something abstract, like basketball. But that isn't always the case. Sometimes, numbers just exist without a purpose. Sometimes an ESPN employee just has some down time, a database full of numbers, and a newfound interest in SQL joins. These numbers don't have any hidden agenda or greater takeaway. They aren't here to teach you anything. They are just here to exist, the same way you are here on this Earth to exist.
 
-I think the stats guy at Fox Sports Indiana really understands this concept. Somehow, he came up with this gem of statistic, got the graphics guys to buy in, and convinced his manager to broadcast it. He realized that behind the ugliness of those decimal places and non-rounded numbers, there was inherent beauty. And on that fateful night in late February, the stats guy got to show his masterpiece to the world. He caused a little bit of a [stir on twitter that night](https://twitter.com/FSIndiana/status/969012390158262272), got [a few articles written about him](https://bleacherreport.com/articles/2762113-tv-graphic-places-thaddeus-young-alongside-all-time-nba-legends), but that was pretty much it. The pacers lost that game to the 19-43 Atlanta Hawks. Nobody remembers a single thing about that game. B
+I think the stats guy at Fox Sports Indiana really understands this concept. Somehow, he came up with this gem of statistic, got the graphics guys to buy in, and convinced his manager to broadcast it. He realized that behind the ugliness of those decimal places and non-rounded numbers, there was inherent beauty. And on that fateful night in late February, the stats guy got to show his masterpiece to the world. He caused a little bit of a [stir on twitter that night](https://twitter.com/FSIndiana/status/969012390158262272), got [a few articles written about him](https://bleacherreport.com/articles/2762113-tv-graphic-places-thaddeus-young-alongside-all-time-nba-legends), but that was pretty much it. The pacers lost that game to the 19-43 Atlanta Hawks. Nobody remembers a single thing about that game. But that day will go down in history as the only time that anybody was able to compare Thaddeus Young to Magic Johnson, Larry Bird, Michael Jordan, and Lebron James, and actually get away with it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzNjkzODc2LDEwODg2MTc5NjcsLTE0MD
-UyODA3ODIsLTU5Njk1OTk0NiwtNDExMTgyMjUyLDY4OTA5NjYy
-NSwtMTMxMTA4NTE2NSwtMTczOTk2MTEwNCwtMTI1NzA0MjgsOT
-UzMzkwODMwLC0yMTIyNjg0MzA0LDE3MDczNzEzNTYsMTM1ODIy
-NDk0OSwxMTEwODMwNDk5XX0=
+eyJoaXN0b3J5IjpbMTg3NzcxNTMzMCwxMDg4NjE3OTY3LC0xND
+A1MjgwNzgyLC01OTY5NTk5NDYsLTQxMTE4MjI1Miw2ODkwOTY2
+MjUsLTEzMTEwODUxNjUsLTE3Mzk5NjExMDQsLTEyNTcwNDI4LD
+k1MzM5MDgzMCwtMjEyMjY4NDMwNCwxNzA3MzcxMzU2LDEzNTgy
+MjQ5NDksMTExMDgzMDQ5OV19
 -->
