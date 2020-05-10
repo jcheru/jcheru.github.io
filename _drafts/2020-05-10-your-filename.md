@@ -12,9 +12,9 @@ My brain has a secret corner reserved for players like Luke Ridnour, Charlie Vil
 
 What I'm trying to say is this: Thaddeus Young isn't special. He's just a dude. He's not a bad NBA player by any stretch. But I can guarantee you that this graphic was the only time that he has or ever will be compared to to Magic, Larry, Michael, or Lebron. 
 
-And the comparison is legally allowed to happen, all because of those numbers on top. 
+And the comparison is legally allowed to happen, all because of those numbers on top. You can get annoyed all you want, but you can't dispute the numbers. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Nzc0MDA1NiwtMTczOTk2MTEwNCwtMT
-I1NzA0MjgsOTUzMzkwODMwLC0yMTIyNjg0MzA0LDE3MDczNzEz
-NTYsMTM1ODIyNDk0OSwxMTEwODMwNDk5XX0=
+eyJoaXN0b3J5IjpbLTEzMTEwODUxNjUsLTE3Mzk5NjExMDQsLT
+EyNTcwNDI4LDk1MzM5MDgzMCwtMjEyMjY4NDMwNCwxNzA3Mzcx
+MzU2LDEzNTgyMjQ5NDksMTExMDgzMDQ5OV19
 -->
