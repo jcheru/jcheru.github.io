@@ -21,10 +21,10 @@ Here are a few more examples of what I'm talking about:
 ![](https://i.imgur.com/YjBAJdQ.png)
 ![](https://external-preview.redd.it/2wg4QnJ5QIhO8z0selOMdwx_8fWcLA2sEcjozc5l1EA.png?width=960&crop=smart&auto=webp&s=362d7e75e99ee9d8b5256cad41add8555102bbc5)
 ![](https://i.imgur.com/85F0Smy.png)
-The criteria is so selective, so arbitrary, so unnatural, that you just can't help but laugh. In fact, I've come around to straight up being impressed. 
+The criteria is so selective, so arbitrary, so unnatural, that you just can't help but laugh. In fact, I've come around to straight up being impressed. If the question is "what is the point?",
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5Njk1OTk0NiwtNDExMTgyMjUyLDY4OT
-A5NjYyNSwtMTMxMTA4NTE2NSwtMTczOTk2MTEwNCwtMTI1NzA0
-MjgsOTUzMzkwODMwLC0yMTIyNjg0MzA0LDE3MDczNzEzNTYsMT
-M1ODIyNDk0OSwxMTEwODMwNDk5XX0=
+eyJoaXN0b3J5IjpbMjAyNjI5MzExNiwtNTk2OTU5OTQ2LC00MT
+ExODIyNTIsNjg5MDk2NjI1LC0xMzExMDg1MTY1LC0xNzM5OTYx
+MTA0LC0xMjU3MDQyOCw5NTMzOTA4MzAsLTIxMjI2ODQzMDQsMT
+cwNzM3MTM1NiwxMzU4MjI0OTQ5LDExMTA4MzA0OTldfQ==
 -->
