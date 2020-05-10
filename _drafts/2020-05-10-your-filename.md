@@ -6,8 +6,8 @@ published: false
 On February 28 2018, Fox Sports Indiana showed this graphic on their broadcast:
 
 ![](https://pbs.twimg.com/media/DXKfoLeVoAAp3mD?format=jpg&name=large)
-I 
+Absurd is 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzUwNTY1NywxMzU4MjI0OTQ5LDExMT
-A4MzA0OTldfQ==
+eyJoaXN0b3J5IjpbOTIzNDQ3MDU5LDEzNTgyMjQ5NDksMTExMD
+gzMDQ5OV19
 -->
