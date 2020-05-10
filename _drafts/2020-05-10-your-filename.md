@@ -27,11 +27,11 @@ I think the stats guy at Fox Sports Indiana really understands this concept. Som
  
 Is there a lesson here? Probably not. But let's make one up. 
 
-The only way to achieve greatness is to rid yourself of the idea that everything has a reason behind it. N
+The only way to achieve greatness is to rid yourself of the idea that everything has a reason behind it. Once you realize that nothing - not sports, not numbers, not life - really matters, you can do anything. You can put a horrendous statistic 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Nzk5MzMzNywxODc3NzE1MzMwLDEwOD
+eyJoaXN0b3J5IjpbLTkxNjUzNTE5MiwxODc3NzE1MzMwLDEwOD
 g2MTc5NjcsLTE0MDUyODA3ODIsLTU5Njk1OTk0NiwtNDExMTgy
 MjUyLDY4OTA5NjYyNSwtMTMxMTA4NTE2NSwtMTczOTk2MTEwNC
 wtMTI1NzA0MjgsOTUzMzkwODMwLC0yMTIyNjg0MzA0LDE3MDcz
