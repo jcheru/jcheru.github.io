@@ -8,8 +8,8 @@ On February 28 2018, Fox Sports Indiana showed this graphic on their broadcast:
 ![](https://pbs.twimg.com/media/DXKfoLeVoAAp3mD?format=jpg&name=large)
 This image is objectively beautiful. If you don't like it, you're wrong.
 
-Thaddeus Young joins players like Luke Ridnour
+My brain has a secret corner reserved for players 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjI5ODU1OCwxNzA3MzcxMzU2LDEzNT
-gyMjQ5NDksMTExMDgzMDQ5OV19
+eyJoaXN0b3J5IjpbMzQ2MDAzMDc1LDE3MDczNzEzNTYsMTM1OD
+IyNDk0OSwxMTEwODMwNDk5XX0=
 -->
