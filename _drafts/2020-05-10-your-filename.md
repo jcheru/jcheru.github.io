@@ -18,9 +18,12 @@ But if you want to over-analyze this stuff and get philosophical about it, you c
 
 Here are a few more examples of what I'm talking about:
 
+![](https://i.imgur.com/YjBAJdQ.png)
+![](https://external-preview.redd.it/2wg4QnJ5QIhO8z0selOMdwx_8fWcLA2sEcjozc5l1EA.png?width=960&crop=smart&auto=webp&s=362d7e75e99ee9d8b5256cad41add8555102bbc5)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTg4Njc1NSwtMTMxMTA4NTE2NSwtMT
-czOTk2MTEwNCwtMTI1NzA0MjgsOTUzMzkwODMwLC0yMTIyNjg0
-MzA0LDE3MDczNzEzNTYsMTM1ODIyNDk0OSwxMTEwODMwNDk5XX
-0=
+eyJoaXN0b3J5IjpbNjg5MDk2NjI1LC0xMzExMDg1MTY1LC0xNz
+M5OTYxMTA0LC0xMjU3MDQyOCw5NTMzOTA4MzAsLTIxMjI2ODQz
+MDQsMTcwNzM3MTM1NiwxMzU4MjI0OTQ5LDExMTA4MzA0OTldfQ
+==
 -->
