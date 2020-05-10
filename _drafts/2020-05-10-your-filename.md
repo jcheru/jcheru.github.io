@@ -10,9 +10,9 @@ This image is objectively beautiful. If you don't like it, you're wrong.
 
 My brain has a secret corner reserved for players like Luke Ridnour, Charlie Villanueva, and our boy Thaddeus Young. They were / are half-decent role players on basketball teams. If I happened to tune into their games, these players were usually on the court long enough to make some kind of impact. I would occasionally notice something here or there and think something like "Huh, Luke Rindour has a pretty good mid-range jumper." And that would be it. I would turn off the game and go about the rest of my day as a wholly unchanged man. But after all these years of watching these random NBA games with random NBA players, these minor role players have managed to carve out a home in my brain. So now, I can hear the name "Thaddeus Young" and I can associate him with the phrases "pretty good defender" and "was on the sixers."
 
-What I'm trying to say is this: Thaddeus Young 
+What I'm trying to say is this: Thaddeus Young isn't special. He's just a dude. He's not a bad NBA player by any stretch.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDI5NDMwNCw5NTMzOTA4MzAsLTIxMj
-I2ODQzMDQsMTcwNzM3MTM1NiwxMzU4MjI0OTQ5LDExMTA4MzA0
-OTldfQ==
+eyJoaXN0b3J5IjpbLTEyNTcwNDI4LDk1MzM5MDgzMCwtMjEyMj
+Y4NDMwNCwxNzA3MzcxMzU2LDEzNTgyMjQ5NDksMTExMDgzMDQ5
+OV19
 -->
